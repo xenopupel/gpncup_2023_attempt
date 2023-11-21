@@ -12,11 +12,6 @@ _tg __: @__ xenopupel_
 
 ![Image alt](https://github.com/xenopupel/gpncup_2023_attempt/tree/main/images/1.png)
 
-{username} — xenopupel;
-{repository} — gpn_2023_attempt;
-{branch} — main;
-{path} — путь к месту нахождения картинки.
-
 _Рисунок 1 Анор Лондо – Эстус_
 
 - Цена, себестоимость и средняя цена конкурентов сильно коррелируют друг с другом.
